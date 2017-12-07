@@ -1,1 +1,47 @@
-
+{
+	"Wallpapers":
+		[
+			{
+				"author": "MCYXDesign",
+				"url": "https://github.com/mcyxdesign/resources/raw/master/wallpapers/wall1.png",
+				"thumbUrl": "https://github.com/mcyxdesign/resources/raw/master/wallpapers/wall1.png",
+				"name": "Wall1"
+			},
+			{
+				"author": "MCYXDesign",
+				"url": "https://github.com/mcyxdesign/resources/raw/master/wallpapers/wall2.png",
+				"thumbUrl": "https://raw.github.com/mcyxdesign/resources/raw/master/wallpapers/wall2.png",
+				"name": "Wall2"
+			},
+			{
+				"author": "MCYXDesign",
+				"url": "https://github.com/mcyxdesign/resources/raw/master/wallpapers/wall3.png",
+				"thumbUrl": "https://github.com/mcyxdesign/resources/raw/master/wallpapers/wall3.png",
+				"name": "Wall3"
+			},
+			{
+				"author": "Unsplash",
+				"url": "https://github.com/mcyxdesign/resources/raw/master/wallpapers/wall4.jpg",
+				"thumbUrl": "https://github.com/mcyxdesign/resources/raw/master/wallpapers/wall4.jpg",
+				"name": "Wall4"
+			},
+			{
+				"author": "Unsplash",
+				"url": "https://github.com/mcyxdesign/resources/raw/master/wallpapers/wall5.jpg",
+				"thumbUrl": "https://github.com/mcyxdesign/resources/raw/master/wallpapers/wall5.jpg",
+				"name": "Wall5"
+			},
+			{
+				"author": "Unsplash",
+				"url": "https://github.com/mcyxdesign/resources/raw/master/wallpapers/wall6.jpg",
+				"thumbUrl": "https://github.com/mcyxdesign/resources/raw/master/wallpapers/wall6.jpg",
+				"name": "Wall6"
+			},
+			{
+				"author": "Unsplash",
+				"url": "https://github.com/mcyxdesign/resources/raw/master/wallpapers/wall7.jpg",
+				"thumbUrl": "https://github.com/mcyxdesign/resources/raw/master/wallpapers/wall7.jpg",
+				"name": "Wall7"
+			}
+		]
+}
